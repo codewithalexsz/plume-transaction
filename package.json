@@ -1,0 +1,16 @@
+{
+  "name": "plume-wrapper",
+  "version": "1.0.0",
+  "description": "Random PLUME wrapping and unwrapping bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "ethers": "^6.8.1",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": ["plume", "ethereum", "wrapping", "defi"],
+  "author": "",
+  "license": "MIT"
+} 
